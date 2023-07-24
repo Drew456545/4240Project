@@ -1,11 +1,14 @@
 # 4240 Project - System Monitoring with GUI
-Simple, light-weight linux task manager with GUI built with python. 
+Simple, light-weight Linux task manager with GUI built with Python. 
 
 ![image](https://github.com/Drew456545/4240Project/assets/113255492/01339943-def7-460f-83ae-9fe0b6fa97cc)
 
 Uses the psutils and tkinter libraries for python, documentation for which can be found here: 
+
+psutils:
     https://psutil.readthedocs.io/en/latest/
     
+tkinter:
     https://docs.python.org/3/library/tkinter.html
 
 Provides a interface to view a snapshot of top processes, cpu, memory, and network usage and system information. 
