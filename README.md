@@ -5,6 +5,7 @@ Simple, light-weight linux task manager with GUI built with python.
 
 Uses the psutils and tkinter libraries for python, documentation for which can be found here: 
     https://psutil.readthedocs.io/en/latest/
+    
     https://docs.python.org/3/library/tkinter.html
 
 Provides a interface to view a snapshot of top processes, cpu, memory, and network usage and system information. 
